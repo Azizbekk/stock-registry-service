@@ -1,0 +1,10 @@
+
+  ${AnsiColor.GREEN}   _____${AnsiColor.RED}   __             __         ____             _      __                                        _
+  ${AnsiColor.GREEN}  / ___/${AnsiColor.RED}  / /_____  _____/ /__      / __ \___  ____ _(_)____/ /________  __      ________  ______   __(_)_______
+  ${AnsiColor.GREEN}  \__ \ ${AnsiColor.RED} / __/ __ \/ ___/ //_/_____/ /_/ / _ \/ __ `/ / ___/ __/ ___/ / / /_____/ ___/ _ \/ ___/ | / / / ___/ _ \
+  ${AnsiColor.GREEN} ___/ / ${AnsiColor.RED}/ /_/ /_/ / /__/ ,< /_____/ _, _/  __/ /_/ / (__  ) /_/ /  / /_/ /_____(__  )  __/ /   | |/ / / /__/  __/
+  ${AnsiColor.GREEN}/____/  ${AnsiColor.RED}\__/\____/\___/_/|_|     /_/ |_|\___/\__, /_/____/\__/_/   \__, /     /____/\___/_/    |___/_/\___/\___/
+  ${AnsiColor.GREEN}        ${AnsiColor.RED}                                    /____/                /____/
+
+${AnsiColor.BRIGHT_BLUE}:: Stock Registry :: Running Spring Boot ${spring-boot.version} ::
+:: aziz.husenov@gmail.com ::${AnsiColor.DEFAULT}
