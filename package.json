@@ -1,6 +1,6 @@
 {
   "name": "stock-registry-service",
-  "version": "0.0.1-SNAPSHOT",
+  "version": "7.3.0",
   "private": true,
   "description": "JHipster service registry, made with Netflix Eureka and Spring Cloud Config",
   "license": "UNLICENSED",
